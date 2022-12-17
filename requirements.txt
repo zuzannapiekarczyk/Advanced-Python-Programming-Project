@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sympy
+opencv-python-headless
+pydantic
+starlette
+numpy
+python-multipart
+locust
